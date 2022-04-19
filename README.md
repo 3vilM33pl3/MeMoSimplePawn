@@ -1,3 +1,5 @@
+Code for [blogpost](https://3vilm33pl3.com/posts/simplepawn/) on how to create a simple pawn. 
+
 # MeMoSimplePawn
 ![Meeple on Target](https://3vilm33pl3.com/images/MeepleOnTarget.png)
 
